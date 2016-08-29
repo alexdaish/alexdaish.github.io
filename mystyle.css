@@ -33,7 +33,6 @@ article{
 	width:100%}#info{
 	display:table-cell;
 	vertical-align:middle;
-	padding-bottom:25px;
 	}
 h1,h2,h3,h4
 	{
@@ -69,7 +68,6 @@ ul{margin:0px 20px 0;padding:0;}
 article,#info{
 	display:block;
 	height:auto;
-	padding-bottom:25px;
 	}
 @media screen and (max-width: 640px)
 {body
@@ -80,5 +78,4 @@ article,#info{
 		display:block;
 		height:auto;
 		width:auto;
-		padding-bottom:25px;
 		}
