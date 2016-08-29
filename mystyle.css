@@ -34,7 +34,6 @@ article{
 	display:table-cell;
 	vertical-align:middle;
 	padding-bottom:25px;
-	padding-top: 25px
 	}
 h1,h2,h3,h4
 	{
@@ -82,4 +81,4 @@ article,#info{
 		height:auto;
 		width:auto;
 		padding-bottom:25px;
-		padding-top: 25px}
+		}
