@@ -57,6 +57,168 @@ a{
 	}
 a:hover{
 	border-bottom-width:3px}
+
+.portfolio:hover {
+    position: relative;
+}
+.portfolio:hover:after {
+    content: url(images/portfolio_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+
+.google:hover {
+    position: relative;
+}
+.google:hover:after {
+    content: url(images/recall_preview.gif);
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+.backpack:hover {
+    position: relative;
+}
+.backpack:hover:after {
+    content: url(images/backpack_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+.wellbeing:hover {
+    position: relative;
+}
+.wellbeing:hover:after {
+    content: url(images/wellbeing_wearable_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+.volvo:hover {
+    position: relative;
+}
+.volvo:hover:after {
+    content: url(images/future_of_driving_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+.pyjamas:hover {
+    position: relative;
+}
+.pyjamas:hover:after {
+    content: url(images/cats_pyjamas_preview.png); 
+    display: block;
+    position: absolute;
+    left: 50px; 
+    top: 20px;
+}
+
+
+.globalparty:hover {
+    position: relative;
+}
+.globalparty:hover:after {
+    content: url(images/happy_party_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+
+.lewis:hover {
+    position: relative;
+}
+.lewis:hover:after {
+    content: url(images/teamlh_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+
+.giveone:hover {
+    position: relative;
+}
+.giveone:hover:after {
+    content: url(images/give_one_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+.dogwatisaw:hover {
+    position: relative;
+}
+.dogwatisaw:hover:after {
+    content: url(images/dog_wat_i_saw.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+.cats:hover {
+    position: relative;
+}
+.cats:hover:after {
+    content: url(images/cat_preview.gif);
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+.dogspotting:hover {
+    position: relative;
+}
+.dogspotting:hover:after {
+    content: url(images/dog_spotting_extension_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px;
+}
+
+.freehype:hover {
+    position: relative;
+}
+.freehype:hover:after {
+    content: url(images/free_hype_preview.png); 
+    display: block;
+    position: absolute;
+    left: 50px;  
+    top: 20px; 
+}
+
+.giggy:hover {
+    position: relative;
+}
+.giggy:hover:after {
+    content: url(images/giggypop_preview.gif); 
+    display: block;
+    position: absolute;
+    left: 50px; 
+    top: 20px; 
+}
+
+
+/**************************************************************************/
+
+
 p{
 	margin:20px 0 0
 }
@@ -82,3 +244,6 @@ article,#info{
 		width:auto;
 		}
 }
+/*******************************************************/	
+
+
